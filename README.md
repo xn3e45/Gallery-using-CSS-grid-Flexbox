@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">Gallery layout</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -42,16 +42,19 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 - Where can I see your demo?
 - What was your experience?
+   - Wasn't sure how was going to start off but I decided to practice my CSS grid skills.
 - What have you learned/improved?
+   - I feel quite confident in using CSS grid now along with Flexbox.
+   - Learned how to use grid areas with auto sizing options to get the look I'm going for.
+   - Challenge was getting the grids to size themselves.
 - Your wisdom? :)
+   - Practice, practice, and practice somemore.
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- Pure HTML & CSS
 
 ## Features
 
@@ -70,6 +73,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website [ndflow.com](https://comingsoon.com)
+- GitHub [@xn3e54](https://github.com/xn3e45)
